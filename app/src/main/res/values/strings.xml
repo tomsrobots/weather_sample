@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YahooWeather</string>
+    <string name="temperature" translatable="false">72</string>
+    <string name="temperature_low" translatable="false">60</string>
+    <string name="weather_desc">Sunny</string>
+    <string name="date" translatable="false">Aug. 13, 2016</string>
+    <string name="cont_weather_icon">Weather icon</string>
+</resources>
